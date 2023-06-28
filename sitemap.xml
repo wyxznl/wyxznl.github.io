@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wyxznl.github.io/2023/06/26/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</loc>
+    
+    <lastmod>2023-06-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wyxznl.github.io/2023/05/19/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</loc>
     
     <lastmod>2023-06-28</lastmod>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://wyxznl.github.io/2023/05/19/My-New-Post/</loc>
-    
-    <lastmod>2023-06-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://wyxznl.github.io/2023/06/26/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</loc>
     
     <lastmod>2023-06-28</lastmod>
     
@@ -63,27 +63,20 @@
   </url>
   
   <url>
-    <loc>https://wyxznl.github.io/tags/CSS/</loc>
-    <lastmod>2023-06-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://wyxznl.github.io/tags/typescript/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
-
-  
   <url>
-    <loc>https://wyxznl.github.io/categories/%E2%91%A3Vue/</loc>
+    <loc>https://wyxznl.github.io/tags/CSS/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
+  
+
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A0HTML/</loc>
@@ -93,7 +86,7 @@
   </url>
   
   <url>
-    <loc>https://wyxznl.github.io/categories/%E2%91%A1CSS/</loc>
+    <loc>https://wyxznl.github.io/categories/%E2%91%A3Vue/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -101,6 +94,13 @@
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A2JS/</loc>
+    <lastmod>2023-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://wyxznl.github.io/categories/%E2%91%A1CSS/</loc>
     <lastmod>2023-06-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
