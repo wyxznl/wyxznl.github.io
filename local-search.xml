@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>new page</title>
+    <link href="/2023/06/30/new-page/"/>
+    <url>/2023/06/30/new-page/</url>
+    
+    <content type="html"><![CDATA[<h2 id="test"><a href="#test" class="headerlink" title="test"></a>test</h2>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>手写Vue3</title>
     <link href="/2023/06/26/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/"/>
     <url>/2023/06/26/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</url>

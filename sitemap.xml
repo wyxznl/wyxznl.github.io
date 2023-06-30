@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://wyxznl.github.io/2023/06/30/new-page/</loc>
+    
+    <lastmod>2023-06-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://wyxznl.github.io/2023/06/26/%E6%96%87%E7%AB%A0%E6%A0%87%E9%A2%98/</loc>
     
     <lastmod>2023-06-28</lastmod>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://wyxznl.github.io/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -57,21 +66,21 @@
   
   <url>
     <loc>https://wyxznl.github.io/tags/CSS/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wyxznl.github.io/tags/typescript/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wyxznl.github.io/tags/Vue/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -80,28 +89,28 @@
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A1CSS/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A0HTML/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A2JS/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://wyxznl.github.io/categories/%E2%91%A3Vue/</loc>
-    <lastmod>2023-06-28</lastmod>
+    <lastmod>2023-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
